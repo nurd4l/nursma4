@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nursma4
+- 👋 Hi, I’m @nursma4.
 - 👀 I’m interested in software.
 - 🌱 I’m currently learning some programming languages.
 - 📫 You can reach me nursmadal@gmail.com
